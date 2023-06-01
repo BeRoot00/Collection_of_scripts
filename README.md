@@ -1,6 +1,6 @@
-### Python Script Collection
+### Script Collection
 
-This repository contains a collection of Python scripts that I use for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
+This repository contains a collection of scripts that I use for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
 
 ### Contribution
 

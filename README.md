@@ -2,7 +2,7 @@
 
 This repository contains a collection of scripts that I use for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
 
-### vuln_banner.txt
+### vuln_banner.py
 
 This script is a network vulnerability scanner that checks if a server is vulnerable to specific exploits. It connects to a specified list of IP addresses on predefined ports and captures the server banners. It then compares the banners against a list of known vulnerabilities to identify potential security risks.
 

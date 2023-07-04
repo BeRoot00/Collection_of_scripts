@@ -11,6 +11,17 @@ Before running the script, ensure that you have the following:
 - The socket module available
 - The vuln_banners.txt file with a list of known vulnerabilities
 
+### web_perf.py
+
+This code analyzes the response time of a web server by sending multiple requests and measuring the duration of each request. It also generates a histogram of the durations to visualize the distribution.
+
+Prerequisites
+- Python 3.x
+- Required packages: schedule, requests, matplotlib, numpy
+
+### file_deduplication.py
+This is a Python script that performs file deduplication. It reads a file, removes duplicate lines, and writes the result to a new file.
+  
 ## Contribution
 
 Contributions are welcome! If you want to improve these scripts, fix any issues, or add new features, feel free to submit a pull request. Please provide a clear description of your changes and make sure to test any modified scripts before submitting your contribution.

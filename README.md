@@ -1,6 +1,6 @@
-## Script Collection
+## Collection of my scripts
 
-This repository contains a collection of scripts that I build for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
+This repository contains a collection of scripts that I have created for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
 
 ### vuln_banner.py
 

@@ -10,6 +10,29 @@ Before running the script, ensure that you have the following:
 - Python 3 installed
 - The socket module available
 - The vuln_banners.txt file with a list of known vulnerabilities
+### port_scanner.py
+
+This is a simple network port scanner written in Python using the optparse and nmap libraries. It allows you to scan a target host for open or closed TCP ports.
+
+###### Prerequisites
+
+    Python 3.x
+    optparse library
+    nmap library
+
+###### Usage
+
+Run the script with the following command:
+
+```bash
+  python port_scanner.py -H <target_host> -p <target_ports>
+```
+Replace <target_host> with the IP address or hostname of the target host, and <target_ports> with one or more comma-separated port numbers.
+
+You can also scan multiple ports at the same time by using the syntaxe:
+```bash
+  python port_scanner.py -H 127.1XX.XXX.XXX -p 80, 443, 22, 8000
+```
 
 ### crack_passwd_hash.py
 This is a Python script that attempts to crack passwords by comparing them with entries in a wordlist. It utilizes the crypt module for password encryption and checking.

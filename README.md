@@ -1,3 +1,5 @@
+This is part of a detailed demonstration aimed at security teams or cybersecurity clubs to explain how certain threats, like keyloggers, operate. The goal is to raise awareness and provide practical knowledge to better detect and mitigate such risks.
+
 ## Collection of my scripts
 
 This repository contains a collection of scripts that I have created for various tasks and projects. Each script is designed to perform a specific task and can be used independently or integrated into other projects.
